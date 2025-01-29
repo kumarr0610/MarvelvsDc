@@ -1,7 +1,9 @@
 # MarvelvsDc
-# Project Title
+## Project Title
+Superhero Statistical Analysis
 ## Description
-### How to Run Program
-# Files Used
-# Additional Documentation
-# Versioning
+Business Analytics Final Project
+## How to Run Program
+## Files Used
+## Additional Documentation
+## Versioning
